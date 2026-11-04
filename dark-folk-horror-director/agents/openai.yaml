@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dark Folk Horror Creative Director"
+  short_description: "Direct cinematic dark folk-horror concepts"
+  default_prompt: "Use $dark-folk-horror-director to develop a cinematic folk-horror scene and generation prompt."
