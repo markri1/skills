@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Scene Polish"
+  short_description: "Refine Blender scenes and validate final renders"
+  default_prompt: "Use $blender-scene-polish to inspect and refine this Blender scene, preserve its intended style, and verify the requested renders."
